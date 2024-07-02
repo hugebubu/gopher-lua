@@ -2,6 +2,7 @@ module github.com/hugebubu/gopher-lua
 
 go 1.17
 
+
 require github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
 
 require (
